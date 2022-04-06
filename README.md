@@ -1,4 +1,4 @@
-# VaultSharp Library
+# VaultSharp Library C#
 
 The most comprehensive cross-platform .NET Library for HashiCorp's Vault - A Secret Management System.
 
